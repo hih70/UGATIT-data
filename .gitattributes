@@ -1,0 +1,2 @@
+*.tgz filter=lfs diff=lfs merge=lfs -text
+*.tgz.part* filter=lfs diff=lfs merge=lfs -text
